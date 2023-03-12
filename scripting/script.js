@@ -10,6 +10,7 @@ document.addEventListener("DOMContentLoaded",()=>{
 
     //END ELEMENT REFERENCE
 
+    
     //MAIN CODE
 
     console.log("DOM-Content Loaded.");
