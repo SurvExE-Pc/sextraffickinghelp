@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded",()=>{
     const main = document.querySelector("main");
     const footer = document.querySelector("footer");
     const stolen_intro_pers = top_header.querySelector('video[data-stolen-intro-pers="1"]');
-    const PlayVideo = false;
+    const PlayVideo = true;
 
     //END ELEMENT REFERENCE
 
